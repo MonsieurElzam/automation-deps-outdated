@@ -1,0 +1,6 @@
+{
+  "next": { "current": "14.2.3", "wanted": "14.2.9", "latest": "16.2.4", "dependent": "app" },
+  "react": { "current": "18.3.1", "wanted": "18.3.1", "latest": "19.2.5", "dependent": "app" },
+  "zod": { "current": "3.22.0", "wanted": "3.25.1", "latest": "3.25.1", "dependent": "app" },
+  "lodash": { "current": "4.17.20", "wanted": "4.17.21", "latest": "4.17.21", "dependent": "app" }
+}
